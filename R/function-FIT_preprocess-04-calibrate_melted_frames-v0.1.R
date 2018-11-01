@@ -2,7 +2,7 @@
 # Name   : R script template
 # Author : Filippo Ferrario 
 # Date   : 29/04/2018 16:18:02
-# Version: v1
+# Version: 0.1
 # Aim    : Calibrate and convert the sensor values from the COUNT format to physically meaningfull units
 # URL    : 
 #===============================================================================
